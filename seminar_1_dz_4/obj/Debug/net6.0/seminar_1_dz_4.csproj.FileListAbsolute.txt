@@ -1,0 +1,15 @@
+C:\Users\Волшебник\Desktop\Git rabota\PROG_ C#\seminar_1_dz_4\bin\Debug\net6.0\seminar_1_dz_4.exe
+C:\Users\Волшебник\Desktop\Git rabota\PROG_ C#\seminar_1_dz_4\bin\Debug\net6.0\seminar_1_dz_4.deps.json
+C:\Users\Волшебник\Desktop\Git rabota\PROG_ C#\seminar_1_dz_4\bin\Debug\net6.0\seminar_1_dz_4.runtimeconfig.json
+C:\Users\Волшебник\Desktop\Git rabota\PROG_ C#\seminar_1_dz_4\bin\Debug\net6.0\seminar_1_dz_4.dll
+C:\Users\Волшебник\Desktop\Git rabota\PROG_ C#\seminar_1_dz_4\bin\Debug\net6.0\seminar_1_dz_4.pdb
+C:\Users\Волшебник\Desktop\Git rabota\PROG_ C#\seminar_1_dz_4\obj\Debug\net6.0\seminar_1_dz_4.csproj.AssemblyReference.cache
+C:\Users\Волшебник\Desktop\Git rabota\PROG_ C#\seminar_1_dz_4\obj\Debug\net6.0\seminar_1_dz_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Волшебник\Desktop\Git rabota\PROG_ C#\seminar_1_dz_4\obj\Debug\net6.0\seminar_1_dz_4.AssemblyInfoInputs.cache
+C:\Users\Волшебник\Desktop\Git rabota\PROG_ C#\seminar_1_dz_4\obj\Debug\net6.0\seminar_1_dz_4.AssemblyInfo.cs
+C:\Users\Волшебник\Desktop\Git rabota\PROG_ C#\seminar_1_dz_4\obj\Debug\net6.0\seminar_1_dz_4.csproj.CoreCompileInputs.cache
+C:\Users\Волшебник\Desktop\Git rabota\PROG_ C#\seminar_1_dz_4\obj\Debug\net6.0\seminar_1_dz_4.dll
+C:\Users\Волшебник\Desktop\Git rabota\PROG_ C#\seminar_1_dz_4\obj\Debug\net6.0\refint\seminar_1_dz_4.dll
+C:\Users\Волшебник\Desktop\Git rabota\PROG_ C#\seminar_1_dz_4\obj\Debug\net6.0\seminar_1_dz_4.pdb
+C:\Users\Волшебник\Desktop\Git rabota\PROG_ C#\seminar_1_dz_4\obj\Debug\net6.0\seminar_1_dz_4.genruntimeconfig.cache
+C:\Users\Волшебник\Desktop\Git rabota\PROG_ C#\seminar_1_dz_4\obj\Debug\net6.0\ref\seminar_1_dz_4.dll
